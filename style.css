@@ -143,6 +143,18 @@ header .search-container i{
     justify-content: space-evenly;
     align-items: center;
     user-select: none;
+    animation-name: intro-info;
+    animation-duration: 0.15s;
+    animation-iteration-count: 1;
+}
+
+@keyframes intro-info{
+    0%{
+        opacity: 0;
+    }
+    100%{
+        opacity: 1;
+    }
 }
 
 .tarjeta-info .container-btn-cerrar{
