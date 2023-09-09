@@ -1,5 +1,6 @@
 import { cargarTarjetas } from "./cargarTarjetas.js";
 import { filtrar } from "./filtroTarjetas.js";
+import { mostrarInfo } from "./mostrarInfo.js";
 
 export async function getData($container, $search) {
 
@@ -37,9 +38,7 @@ export async function getData($container, $search) {
 
         $tarjetas.forEach((el) => {
             el.addEventListener("click", (e) => {
-                let tarjeta = e.target.closest(".tarjeta");
-                tarjeta.querySelectorAll("p").forEach(el => console.log(el.textContent));
-                tarjeta.querySelectorAll("img").forEach(el => console.log(el.getAttribute("src")))
+                mostrarInfo(e);
             })
         })
 
