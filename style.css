@@ -123,7 +123,14 @@ header .search-container i{
 }
 
 .display-none{
-    display: none;
+    animation: display-none 0.1s forwards;
+}
+
+@keyframes display-none{
+    to{
+        opacity: 0;
+        display: none;
+    }
 }
 
 .tarjeta-info{
