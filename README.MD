@@ -36,8 +36,14 @@
     <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/Rick-and-Morty-Axios/imagen-02.png?raw=true" alt="Cap2" width="700">
     <br>
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/Rick-and-Morty-Axios/imagen-03.png?raw=true" alt="Cap3" width="400">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/Rick-and-Morty-Axios/img-05.png?raw=true" alt="Cap3" width="700">
     <br>
     <br>
     <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/Rick-and-Morty-Axios/imagen-04.png?raw=true" alt="Cap4" width="400">
+    <br>
+    <br>
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/Rick-and-Morty-Axios/imagen-03.png?raw=true" alt="Cap5" width="400">
+    <br>
+    <br>
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/Rick-and-Morty-Axios/img-06.png?raw=true" alt="Cap6" width="400">
 </div>
