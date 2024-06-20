@@ -31,9 +31,9 @@
     <h3 align="left"> 📷 Capturas:</h3>
     <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/RickAndMortyAPI/img01.png?raw=true" alt="Cap1" width="800">
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/RickAndMortyAPI/img01.png?raw=true" alt="Cap2" width="800">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/RickAndMortyAPI/img02.png?raw=true" alt="Cap2" width="800">
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/RickAndMortyAPI/img01.png?raw=true" alt="Cap3" width="800">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/RickAndMortyAPI/img03.png?raw=true" alt="Cap3" width="800">
     <br>
-    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/RickAndMortyAPI/img01.png?raw=true" alt="Cap4" width="800">
+    <img src="https://github.com/elchino8779/ImagenesGitHub/blob/main/ShotsImages/RickAndMortyAPI/img04.png?raw=true" alt="Cap4" width="800">
 </div>
